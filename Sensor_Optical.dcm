@@ -48,6 +48,12 @@ K opto ambient light sensor
 F https://docs.broadcom.com/docs/AV02-4755EN
 $ENDCMP
 #
+$CMP APDS-9960
+D Digital RGB, Ambient Light, Proximity and Gesture Sensor
+K rgb gesture proximity
+F https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960#documentation
+$ENDCMP
+#
 $CMP AS7261
 D Spectral Sensing Engine, 6-Channel XYZ Spectral_ID
 K 6-Channel XYZ Spectral_ID Device Electronic Shutter Smart Interface i2c uart

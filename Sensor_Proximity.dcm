@@ -162,4 +162,10 @@ K opto IR receiver
 F http://www.vishay.com/docs/82462/tsop581.pdf
 $ENDCMP
 #
+$CMP VL53L0X
+D Time-of-Flight (ToF) ranging sensor
+K ToF ranging distance proximity
+F https://www.st.com/resource/en/datasheet/vl53l0x.pdf
+$ENDCMP
+#
 #End Doc Library
