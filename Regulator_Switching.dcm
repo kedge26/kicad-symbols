@@ -5160,6 +5160,18 @@ K Voltage regulator switching buck fixed output analog
 F http://www.ti.com/lit/ds/symlink/tps560200.pdf
 $ENDCMP
 #
+$CMP TPS561201
+D 4.5V to 17V Input, 1A Synchronous Step-Down Voltage Regulator in 6-pin SOT-23 with Pulse Skipping
+K Voltage regulator switching buck
+F http://www.ti.com/lit/ds/symlink/tps561201.pdf
+$ENDCMP
+#
+$CMP TPS561208
+D 4.5V to 17V Input, 1A Synchronous Step-Down Voltage Regulator in 6-pin SOT-23
+K Voltage regulator switching buck
+F http://www.ti.com/lit/ds/symlink/tps561201.pdf
+$ENDCMP
+#
 $CMP TPS562200
 D 2A Synchronous Step-Down Voltage Regulator, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-6
 K step-down dcdc voltage regulator
